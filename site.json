@@ -1,0 +1,35 @@
+{
+  "name": "Obsmetrologia",
+  "baseIri": "https://obsmetrologia.561.group/",
+  "language": "en",
+  "license": "Reuse terms are stated on each publication.",
+  "description": "Mathematics from marks and articulation to relational systems, verified transformations and useful readouts.",
+  "eyebrow": "Lenticule Science · Mathematical Research",
+  "cellLabel": "Mathematics",
+  "menu": [
+    {
+      "href": "/",
+      "label": "Research"
+    },
+    {
+      "href": "https://science.561.group/",
+      "label": "Lenticule Science"
+    },
+    {
+      "href": "https://l-space.561.group/",
+      "label": "Knowledge garden"
+    },
+    {
+      "href": "https://561.group/",
+      "label": "561 Group"
+    }
+  ],
+  "home": true,
+  "archives": {
+    "enabled": true,
+    "pageSize": 12
+  },
+  "search": true,
+  "tufte": true,
+  "showRecordMetadata": true
+}
