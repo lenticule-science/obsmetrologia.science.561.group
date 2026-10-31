@@ -62,6 +62,39 @@ Geometry can specify a shape; kinematics can specify a trajectory; material scie
 
 This is also the direction of the research on chromatic and Lorentzian structures. The words “cone” and “causal” may name genuinely different mathematical objects. Moving from one to another requires a stated interpretation and a result about what that interpretation preserves. A causal dependency graph without a metric does not magically become a relativistic spacetime.
 
+## Four distinct ways to read one mathematical claim
+
+There is more than one useful way to explain the graph example above. A
+newcomer can draw the four vertices, add A–C, and discover why the first
+homology dimension changes. An implementer can check the calculation and
+then check real Lean declarations by the source owner's pinned tools.
+A reference reader needs exactly the hypotheses **one-dimensional graph,
+finite edge and vertex sets, coefficient field, no filled 2-cell**. A theory
+reader needs to understand why this *supplied conventional graph* is a
+downstream comparison rather than the primordial generator of
+Obsmetrologia.
+
+The source for this site's substantive four-part Diátaxis teaching set is
+owned in this section: a cycle tutorial, Lean-checking how-to, finite-graph
+reference and explanation of the foundational phase order. These are
+**unreleased editorial candidates**, not live public URL routes.
+
+The illustrations use mathematical *panels* and *gutters*: a statement
+and its next statement must have a warranted transition in between.
+For example, the edge identity AB + BC − AC = 0 proves a 1-cycle for the
+given boundary map, but it does not prove anything about physical space;
+filling the triangle changes its homology. Likewise a formal proof that
+re-attending a supplied Articulating gives a distinct source act does not
+prove that relationlessness forces a unique Next Move.
+
+A future [graphical claim-space interface](../claim-space-workspace.md)
+must let a reader open the **gutter** itself to inspect the source theorem,
+its actual projection loss or the still-open question. It will consume
+Engineering's existing CAIRN/TUFTE L-Space graph and evidence interfaces,
+not infer mathematics from a pretty network of nodes. That interface
+has source requirements but has **not** been independently received on
+the public host.
+
 ## What should a mathematical customer bring?
 
 A useful mathematical question names the objects and the intended result. If there are observations, name the measurements, their units, uncertainty and provenance. If there is code, identify its precise inputs, outputs, and any failing behavior. If there is a fabrication target, describe the desired part and physical constraints. If the question is a conjecture, a counterexample or a restricted finite case may be more valuable than a long speculative essay.
